@@ -1,0 +1,18 @@
+body {
+    background-color:maroon;
+}
+h3 {color:tomato; text-align:center;
+}
+p {color:gold; font-family:"Arial"; text-align:center;
+}
+img {border-style:solid; border-color:#91274F; 
+}
+div {width:1100px; border:50px solid; padding:100px; margin:center; 
+}
+h2 {color:orange;
+}
+
+table, tr, th, td {border:1px solid pink; color:pink;
+}
+ol {color:orange;
+}
